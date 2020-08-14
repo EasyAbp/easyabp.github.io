@@ -10,7 +10,7 @@ features:
 - title: AbpHelper
   details: AbpHelper provides code generation and more features to help you develop applications and modules with the ABP framework.
 - title: Open-source Modules
-  details: The modules of EasyAbp are in line with DDD practice, you can use them to build your applications with the best practice.
+  details: The modules of EasyAbp are in line with DDD practice, they can help developers to build applications with the best practice.
 - title: MIT License
-  details: Developers can safely use our modules for business projects since they are released under the MIT license.
+  details: Developers can use our modules for business projects since the modules are released under the MIT license.
 ---
