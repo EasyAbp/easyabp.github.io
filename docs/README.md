@@ -2,15 +2,15 @@
 home: true
 lang: zh-CN
 heroImage: /icon.png
-heroText: EasyAbp Team
+heroText: EasyAbp
 tagline: An open source organization to enhance your ABP project development efficiency.
-actionText: 马上进入
-actionLink: https://www.baidu.com
+actionText: Getting Started
+actionLink: https://docs.easyabp.io
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: AbpHelper
+  details: AbpHelper provides code generation and more features to help you develop applications and modules with the ABP framework.
+- title: Open-source Modules
+  details: The modules of EasyAbp are in line with DDD practice, you can use them to build your applications with the best practice.
+- title: MIT License
+  details: Developers can safely use our modules for business projects since they are released under the MIT license.
 ---
