@@ -8,7 +8,7 @@ actionText: Getting Started
 actionLink: https://docs.easyabp.io
 features:
 - title: AbpHelper
-  details: AbpHelper provides code generation and more features to help you develop applications and modules with the ABP framework.
+  details: Providing code generation and more features to help you develop applications and modules with the ABP framework.
 - title: Open-source Modules
   details: The modules of EasyAbp are in line with DDD, they can help developers to build applications with the best practice.
 - title: MIT License
