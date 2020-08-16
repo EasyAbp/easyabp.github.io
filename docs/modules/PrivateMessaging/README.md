@@ -5,9 +5,7 @@
 
 An abp application module that allows users to send private messages to each other.
 
-## Online Demo
-
-We have launched an online demo for this module: [https://pm.samples.easyabp.io](https://pm.samples.easyabp.io)
+The online preview： https://pm.samples.easyabp.io
 
 ## Getting Started
 
@@ -45,10 +43,10 @@ We have launched an online demo for this module: [https://pm.samples.easyabp.io]
 
 1. Enjoy this wonderful module.
 
-![Notifications](images/Notifications.png)
-![Write a message](images/WriteMessage.png)
-![Inbox](images/Inbox.png)
-![Read a message](images/ReadMessage.png)
+![Notifications](/modules/PrivateMessaging/images/Notifications.png)
+![Write a message](/modules/PrivateMessaging/images/WriteMessage.png)
+![Inbox](/modules/PrivateMessaging/images/Inbox.png)
+![Read a message](/modules/PrivateMessaging/images/ReadMessage.png)
 
 ## Roadmap
 
