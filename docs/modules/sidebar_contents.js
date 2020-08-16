@@ -15,7 +15,7 @@ module.exports = [
 		children: [
 			{
 				title: "PrivateMessaging",
-				path: "/PrivateMessaging/"
+				path: "/modules/PrivateMessaging/"
 			}
 		]
 	},
