@@ -11,6 +11,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "Message",
+		children: [
+			{
+				title: "PrivateMessaging",
+				path: "/PrivateMessaging/"
+			}
+		]
+	},
+	{
 		title: "Storing",
 		children: [
 			"Abp.BlobStoring.TencentCloud",
