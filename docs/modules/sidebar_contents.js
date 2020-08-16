@@ -11,6 +11,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "Business",
+		children: [
+			{
+				title: "PaymentService",
+				path: "/modules/PaymentService/"
+			}
+		]
+	},
+	{
 		title: "Message",
 		children: [
 			{
