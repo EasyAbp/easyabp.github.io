@@ -32,7 +32,10 @@ module.exports = [
 		title: "Storing",
 		children: [
 			"Abp.BlobStoring.TencentCloud",
-			"FileManagement"
+			{
+				title: "FileManagement",
+				path: "/modules/FileManagement/"
+			}
 		]
 	},
 	{
