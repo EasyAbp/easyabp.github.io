@@ -58,9 +58,9 @@ Abp 小程序管理模块，提供小程序登录、用户个人信息记录、�
 4. 此时，Razor 登录页将自动完成登录并跳转。
 
 ![MiniProgram](/modules/WeChatManagement/MiniPrograms/images/MiniProgram.png)
-![MiniProgramUser](/modules/WeChatManagement/MiniPrograms/MiniProgramUser.png)
-![UserInfo](/modules/WeChatManagement/MiniPrograms/UserInfo.png)
-![PcLogin](/modules/WeChatManagement/MiniPrograms/PcLogin.png)
+![MiniProgramUser](/modules/WeChatManagement/MiniPrograms/images/MiniProgramUser.png)
+![UserInfo](/modules/WeChatManagement/MiniPrograms/images/UserInfo.png)
+![PcLogin](/modules/WeChatManagement/MiniPrograms/images/PcLogin.png)
 
 ## Roadmap
 
