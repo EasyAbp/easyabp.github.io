@@ -6,6 +6,14 @@ module.exports = {
   head: [
     ["link", { rel: "icon", href: "/assets/logo.png" }]
   ],
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'G-GS5K64FXNE'
+      }
+    ]
+  ],
   markdown: {
     lineNumbers: false,
   },
