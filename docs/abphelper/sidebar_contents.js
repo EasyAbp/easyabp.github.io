@@ -5,10 +5,10 @@ module.exports = [
 	},
 	{
 		title: "AbpHelper GUI",
-		path: "/abphelper/gui/"
+		path: "/abphelper/AbpHelper.GUI/"
 	},
 	{
 		title: "AbpHelper CLI",
-		path: "/abphelper/cli/"
+		path: "/abphelper/AbpHelper.CLI/"
 	}
 ];
