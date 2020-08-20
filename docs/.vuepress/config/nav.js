@@ -5,7 +5,7 @@ module.exports = [
   },
   {
     text: "Guide",
-    link: "/guide/",
+    link: "/guide/EasyAbpGuide/",
   },
   {
     text: "AbpHelper",
