@@ -96,7 +96,7 @@ module.exports = [
 		title: "Theme",
 		children: [
 			{
-				title: "Abp.AspNetCore.Mvc.UI.Theme.LYear",
+				title: "LYear",
 				path: "/modules/Abp.AspNetCore.Mvc.UI.Theme.LYear/"
 			}
 		]
