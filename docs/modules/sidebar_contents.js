@@ -80,6 +80,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "User",
+		children: [
+			{
+				title: "ReviewManagement",
+				path: "/modules/ReviewManagement/"
+			}
+		]
+	},
+	{
 		title: "WeChat",
 		children: [
 			{
