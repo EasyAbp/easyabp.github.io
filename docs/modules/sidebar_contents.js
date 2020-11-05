@@ -23,6 +23,10 @@ module.exports = [
 				path: "/modules/Abp.SettingUi/"
 			},
 			{
+				title: "Abp.TagHelperPlus",
+				path: "/modules/Abp.TagHelperPlus/"
+			},
+			{
 				title: "Abp.Trees",
 				path: "/modules/Abp.Trees/"
 			},
