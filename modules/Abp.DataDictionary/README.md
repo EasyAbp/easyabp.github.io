@@ -8,18 +8,18 @@ Abp data dictionary module.
 
 [English](/modules/Abp.DataDictionary/README.md) | [简体中文](/modules/Abp.DataDictionary/README-zh_CN.md)
 
-### 1. Introduction
+## 1. Introduction
 
 Todo
 
-### 2. How Use?
+## 2. How Use?
 
 Todo
 
-#### 2.1 Installation
+### 2.1 Installation
 
-#### 2.2 Configuration
+### 2.2 Configuration
 
-### 3. Concept/Term
+## 3. Concept/Term
 
 Todo
