@@ -11,6 +11,10 @@ module.exports = [
 				path: "/modules/Abp.AspNetCoreRateLimit/"
 			},
 			{
+				title: "Abp.DataDictionary",
+				path: "/modules/Abp.DataDictionary/"
+			},
+			{
 				title: "Abp.EventBus.CAP",
 				path: "/modules/Abp.EventBus.CAP/"
 			},
