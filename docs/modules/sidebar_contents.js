@@ -54,6 +54,10 @@ module.exports = [
 			{
 				title: "GiftCardManagement",
 				path: "/modules/GiftCardManagement/"
+			},
+			{
+				title: "ReviewManagement",
+				path: "/modules/ReviewManagement/"
 			}
 		]
 	},
@@ -88,11 +92,11 @@ module.exports = [
 		]
 	},
 	{
-		title: "User",
+		title: "Account",
 		children: [
 			{
-				title: "ReviewManagement",
-				path: "/modules/ReviewManagement/"
+				title: "Abp.PhoneNumberLogin",
+				path: "/modules/Abp.PhoneNumberLogin/"
 			}
 		]
 	},
