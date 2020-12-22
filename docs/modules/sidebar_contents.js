@@ -69,6 +69,10 @@ module.exports = [
 				path: "/modules/Abp.Sms.TencentCloud/"
 			},
 			{
+				title: "NotificationService",
+				path: "/modules/NotificationService/"
+			},
+			{
 				title: "PrivateMessaging",
 				path: "/modules/PrivateMessaging/"
 			}
