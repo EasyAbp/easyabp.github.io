@@ -65,6 +65,10 @@ module.exports = [
 		title: "Message",
 		children: [
 			{
+				title: "Abp.VerificationCode",
+				path: "/modules/Abp.VerificationCode/"
+			},
+			{
 				title: "Abp.Sms.TencentCloud",
 				path: "/modules/Abp.Sms.TencentCloud/"
 			},
