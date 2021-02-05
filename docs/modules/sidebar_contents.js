@@ -37,6 +37,10 @@ module.exports = [
 			{
 				title: "CacheManagement",
 				path: "/modules/CacheManagement/"
+			},
+			{
+				title: "LoggingManagement",
+				path: "/modules/LoggingManagement/"
 			}
 		]
 	},
