@@ -43,6 +43,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [在分布式架构中使用ABP, SignalR和RabbitMQ构建实时消息系统](https://volosoft.com/blog/RealTime-Messaging-Distributed-Architecture-Abp-SingalR-RabbitMQ) 
 * [如何在Angular模板中使用Attribute Directives来避免重复](https://volosoft.com/blog/attribute-directives-to-avoid-repetition-in-angular-templates)
 * [我和ABP vNext 的故事](https://www.cnblogs.com/shanyou/p/13337713.html) 
+* [项目实战 Artizan.Zero 开始](https://github.com/K-Artisan/Abp-vNext-Course/blob/main/docs/Abp-vNext%20Course.md)
  
 ## Videos
 * [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
@@ -61,8 +62,9 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [abpluz.abp](https://github.com/personball/abpluz.abp) -- This project is an extension for abp.io
 * [Owl.Abp.CultureMap](https://github.com/maliming/Owl.Abp.CultureMap) -- help you map the language code to the specified language
 * [Bamboo ERP Modules](https://github.com/dinhduongha/bamboomodules) -- Bamboo ERP Modules 
-
-
+* [Wei.Abp.Notifications](https://github.com/thk-liu/Wei.Abp/tree/main/src/Wei.Abp.Notifications) -- Notifications Module
+* [Tubumu.Abp.Meeting](https://github.com/albyho/Tubumu.Abp.Meeting) -- 基于 Mediasoup 的 Abp vNext 视频会议模块
+* [Zo-Xapp](https://github.com/K-Artisan/Zo-Xapp) -- Abp + WPF + mahApps.Metro 项目模板
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
