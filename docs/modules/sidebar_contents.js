@@ -27,6 +27,10 @@ module.exports = [
 				path: "/modules/Abp.SettingUi/"
 			},
 			{
+				title: "Abp.EntityUi",
+				path: "/modules/Abp.EntityUi/"
+			},
+			{
 				title: "Abp.TagHelperPlus",
 				path: "/modules/Abp.TagHelperPlus/"
 			},
