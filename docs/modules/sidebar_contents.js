@@ -31,6 +31,14 @@ module.exports = [
 				path: "/modules/Abp.EntityUi/"
 			},
 			{
+				title: "Abp.DynamicEntity",
+				path: "/modules/Abp.DynamicEntity/"
+			},
+			{
+				title: "Abp.DynamicQuery",
+				path: "/modules/Abp.DynamicQuery/"
+			},
+			{
 				title: "Abp.TagHelperPlus",
 				path: "/modules/Abp.TagHelperPlus/"
 			},
