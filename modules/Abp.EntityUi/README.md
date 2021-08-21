@@ -90,7 +90,7 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 ### Entity UI for dynamic entities?
 
-See the Entity UI dynamic entity provider [document](/modules/Abp.EntityUi/providers/dynamic-entity/README.md).
+See the Entity UI dynamic entity provider [document](/modules/Abp.EntityUi/dynamic-entity/README.md).
 
 ## Road map
 
