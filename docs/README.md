@@ -9,6 +9,5 @@ features:
 - title: Open-source Modules
   details: Modules of EasyAbp are DDD compliant and help developers build best-practice applications quickly.
 - title: MIT License
-  details: Developers can use our modules for business projects since the modules are released under the MIT license.
-  EasyAbp uses the MIT license, so you can use our modules for commercial purposes.
+  details: EasyAbp is using the MIT license, so you can use our modules for commercial purposes.
 ---
