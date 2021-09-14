@@ -39,6 +39,10 @@ module.exports = [
 				path: "/modules/Abp.DynamicQuery/"
 			},
 			{
+				title: "Abp.DynamicPermission",
+				path: "/modules/Abp.DynamicPermission/"
+			},
+			{
 				title: "Abp.TagHelperPlus",
 				path: "/modules/Abp.TagHelperPlus/"
 			},
