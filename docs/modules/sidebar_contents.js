@@ -39,6 +39,10 @@ module.exports = [
 				path: "/modules/Abp.DynamicQuery/"
 			},
 			{
+				title: "Abp.DynamicMenu",
+				path: "/modules/Abp.DynamicMenu/"
+			},
+			{
 				title: "Abp.DynamicPermission",
 				path: "/modules/Abp.DynamicPermission/"
 			},
