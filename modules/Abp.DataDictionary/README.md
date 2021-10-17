@@ -9,7 +9,7 @@
 
 Abp data dictionary module.
 
-[English](/modules/Abp.DataDictionary/README.md) | [简体中文](/modules/Abp.DataDictionary/README-zh_CN.md)
+[English](/docs/README.md) | [简体中文](/docs/README-zh_CN.md)
 
 ## 1. Introduction
 
