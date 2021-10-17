@@ -15,11 +15,11 @@ Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、�
 
 ## 二、使用方式
 
-**微信支付模块：**[点击查看说明](/modules/Abp.WeChat/WeChatPay.md)
+**微信支付模块：**[点击查看说明](/docs/WeChatPay.md)
 
-**微信公众号模块**：[点击查看说明](/modules/Abp.WeChat/WeChatOfficial.md)
+**微信公众号模块**：[点击查看说明](/docs/WeChatOfficial.md)
 
-**微信小程序模块：**[点击查看说明](/modules/Abp.WeChat/WeChatMiniProgram.md)
+**微信小程序模块：**[点击查看说明](/docs/WeChatMiniProgram.md)
 
 ## 三、API 支持情况
 
