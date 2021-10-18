@@ -54,12 +54,12 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 3. Run the app and log in as the admin user, you can see the "Entity UI" menu item, try to open it and change some entity configuration.
 
-   ![EntityList](/modules/Abp.EntityUi/images/EntityList.png)
+   ![EntityList](/docs/images/EntityList.png)
 
 4. Use the management pages for the entities you just configured:
 
-   ![BookList](/modules/Abp.EntityUi/images/BookList.png)
-   ![EditBook](/modules/Abp.EntityUi/images/EditBook.png)
+   ![BookList](/docs/images/BookList.png)
+   ![EditBook](/docs/images/EditBook.png)
 
 ## Q&A
 
@@ -93,7 +93,7 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 ### Entity UI for dynamic entities?
 
-See the Entity UI dynamic entity provider [document](/modules/Abp.EntityUi/dynamic-entity/README.md).
+See the Entity UI dynamic entity provider [document](/docs/dynamic-entity/README.md).
 
 ## Road map
 

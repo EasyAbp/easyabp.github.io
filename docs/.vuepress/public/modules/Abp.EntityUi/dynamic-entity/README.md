@@ -13,7 +13,7 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 ## Installation
 
-> Should also install the [Abp.EntityUI](/modules/Abp.EntityUi/README.md#installation) module and the [Abp.DynamicEntity](https://github.com/EasyAbp/Abp.DynamicEntity) module since this module depends on them.
+> Should also install the [Abp.EntityUI](/docs/README.md#installation) module and the [Abp.DynamicEntity](https://github.com/EasyAbp/Abp.DynamicEntity) module since this module depends on them.
 
 1. Install the following NuGet packages. ([see how](https://github.com/EasyAbp/EasyAbpGuide/blob/master/docs/How-To.md#add-nuget-packages))
 
