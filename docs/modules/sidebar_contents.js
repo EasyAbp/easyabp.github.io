@@ -86,6 +86,15 @@ module.exports = [
 		]
 	},
 	{
+		title: "Community",
+		children: [
+			{
+				title: "Forum",
+				path: "/modules/Forum/"
+			}
+		]
+	},
+	{
 		title: "Message",
 		children: [
 			{
