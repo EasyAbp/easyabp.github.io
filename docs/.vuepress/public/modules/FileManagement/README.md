@@ -41,8 +41,8 @@ We have launched an online demo for this module: [https://file.samples.easyabp.i
 
 1. Create a custom **FileOperationAuthorizationHandler**. (see [sample](https://github.com/EasyAbp/FileManagement/blob/master/host/EasyAbp.FileManagement.Web.Unified/CommonContainerFileOperationAuthorizationHandler.cs))
 
-![Files](/modules/FileManagement/images/Files.png)
-![Upload](/modules/FileManagement/images/Upload.png)
+![Files](/docs/images/Files.png)
+![Upload](/docs/images/Upload.png)
 
 ## Road map
 
