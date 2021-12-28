@@ -7,16 +7,16 @@ module.exports = [
 		title: "Infrastructure",
 		children: [
 			{
+				title: "Abp.GraphQL",
+				path: "/modules/Abp.GraphQL/"
+			},
+			{
 				title: "Abp.AspNetCoreRateLimit",
 				path: "/modules/Abp.AspNetCoreRateLimit/"
 			},
 			{
 				title: "Abp.DataDictionary",
 				path: "/modules/Abp.DataDictionary/"
-			},
-			{
-				title: "Abp.EventBus.CAP",
-				path: "/modules/Abp.EventBus.CAP/"
 			},
 			{
 				title: "Abp.RelatedDtoLoader",
