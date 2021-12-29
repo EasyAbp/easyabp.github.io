@@ -1,5 +1,7 @@
 # AbpHelper.GUI
 
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
+
 Providing code generation and more features to help you develop applications and modules with the [ABP framework](https://abp.io). It can be used to call ABP CLI, generate code, manage modules, etc.
 
 **Make sure backup your source files before using it!**
@@ -10,13 +12,13 @@ Providing code generation and more features to help you develop applications and
 
 2. Run the executable file.
 
-![preview 1](/abphelper/AbpHelper.GUI/images/preview1.png)
-![preview 2](/abphelper/AbpHelper.GUI/images/preview2.png)
-![preview 3](/abphelper/AbpHelper.GUI/images/preview3.png)
+![preview 1](/docs/images/preview1.png)
+![preview 2](/docs/images/preview2.png)
+![preview 3](/docs/images/preview3.png)
 
 ## Usage
 
-* [Generate CRUD Code](/abphelper/AbpHelper.GUI/AbpHelper-CLI/Generate-CRUD-Code/Usage.md)
+* [Generate CRUD Code](/docs/AbpHelper-CLI/Generate-CRUD-Code/Usage.md)
 
 ## Roadmap
 
