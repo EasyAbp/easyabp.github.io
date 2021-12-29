@@ -3,11 +3,12 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=//PackageReference[@Include=%27Volo.Abp.Ddd.Domain%27]/@Version&url=https://raw.githubusercontent.com/EasyAbp/Abp.SettingUi/develop/src/EasyAbp.Abp.SettingUi.Domain/EasyAbp.Abp.SettingUi.Domain.csproj)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.Abp.SettingUi.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.Abp.SettingUi.Domain.Shared)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.Abp.SettingUi.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.Abp.SettingUi.Domain.Shared)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/Abp.SettingUi?style=social)](https://www.github.com/EasyAbp/Abp.SettingUi)
 
 一个用来管理[ABP](http://abp.io)设置的模块
 
-![demo](/modules/Abp.SettingUi/images/demo.png)
+![demo](/docs/images/demo.png)
 
 > 如果你在使用 ABP v2.1.1 之前的版本, 请查看[Abp.SettingManagement.Mvc.UI](https://github.com/wakuflair/Abp.SettingManagement.Mvc.UI)
 
@@ -65,7 +66,7 @@
 
 1. 授权 ("Setting UI" - "Show Setting Page")
 
-    ![permission](/modules/Abp.SettingUi/images/permission.png)
+    ![permission](/docs/images/permission.png)
 
 1. 刷新浏览器, 然后你就可以使用 "Administration" - "Settings" 菜单来看见所有ABP内置的设置了
 
@@ -137,13 +138,13 @@
 
 1. 重新启动应用程序, 我们可以看到设置显示了, 并且本地化也正常工作
 
-    ![custom-setting](/modules/Abp.SettingUi/images/custom-setting.png)
+    ![custom-setting](/docs/images/custom-setting.png)
 
 ## 分组
 
 你可能注意到我们的自定义设置显示在"其它"标签, "其它"卡片中, 这些是默认的分组, 分别称之为"Group1"和"Group2"
 
-![group](/modules/Abp.SettingUi/images/group.png)
+![group](/docs/images/group.png)
 
 那么我们如何自定义这些设置的分组呢? 有两种方式:
 
@@ -201,7 +202,7 @@
 
     重新启动应用程序查看分组名称是否正确设置
 
-    ![group-name](/modules/Abp.SettingUi/images/group-name.png)
+    ![group-name](/docs/images/group-name.png)
 
 1. 使用设置属性文件
 
@@ -239,7 +240,7 @@
 
     * 重新启动应用程序来查看新分组的设置
 
-        ![group-by-setting-property-file](/modules/Abp.SettingUi/images/group-by-setting-property-file.png)
+        ![group-by-setting-property-file](/docs/images/group-by-setting-property-file.png)
 
 ## 设置类型
 
@@ -261,7 +262,7 @@
 
 不用重新启动应用程序, 只需要按下F5来刷新浏览器, 你可以立即看到效果:
 
-![type-number](/modules/Abp.SettingUi/images/type-number.png)
+![type-number](/docs/images/type-number.png)
 
 现在输入的类型变更为了"数字", 并且前端的验证也生效了.
 
@@ -287,7 +288,7 @@
 
     渲染结果:
 
-    ![selection](/modules/Abp.SettingUi/images/selet.png)
+    ![selection](/docs/images/selet.png)
 
 到这里教程就结束了. 通过本教程, 你应该可以轻松地使用SettingUi来管理你的设置了. 教程的源码可以在[sample文件夹](https://github.com/EasyAbp/Abp.SettingUi/tree/master/sample)中找到.
 
@@ -362,7 +363,7 @@ public override void Define(IPermissionDefinitionContext context)
 
 下图是Setting Ui权限的截图, 和显示的结果:
 
-![setting_permission](/modules/Abp.SettingUi/images/setting_permission.png)
+![setting_permission](/docs/images/setting_permission.png)
 
 > 关于ABP中权限系统, 请查看[该文档](https://docs.abp.io/en/abp/latest/Authorization)
 
