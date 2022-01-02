@@ -3,6 +3,7 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FSharedResources%2Fmaster%2FDirectory.Build.props)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.SharedResources.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.SharedResources.Domain.Shared)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.SharedResources.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.SharedResources.Domain.Shared)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/SharedResources?style=social)](https://www.github.com/EasyAbp/SharedResources)
 
 An abp application module that allows users to share resources with each other.
@@ -43,12 +44,12 @@ We have launched an online demo for this module: [https://sharedres.samples.easy
 
 1. Set authorized users of the resource so they can access it.
 
-![Categories](/modules/SharedResources/images/Categories.png)
-![CreateCategory](/modules/SharedResources/images/CreateCategory.png)
-![Resources](/modules/SharedResources/images/Resources.png)
-![CreateResource](/modules/SharedResources/images/CreateResource.png)
-![ResourceItems](/modules/SharedResources/images/ResourceItems.png)
-![CreateResourceItem](/modules/SharedResources/images/CreateResourceItem.png)
+![Categories](/docs/images/Categories.png)
+![CreateCategory](/docs/images/CreateCategory.png)
+![Resources](/docs/images/Resources.png)
+![CreateResource](/docs/images/CreateResource.png)
+![ResourceItems](/docs/images/ResourceItems.png)
+![CreateResourceItem](/docs/images/CreateResourceItem.png)
 
 ## Application Scenario
 
