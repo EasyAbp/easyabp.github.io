@@ -3,6 +3,7 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FUniappManagement%2Fmaster%2FDirectory.Build.props)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.UniappManagement.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.UniappManagement.Domain.Shared)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.UniappManagement.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.UniappManagement.Domain.Shared)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/UniappManagement?style=social)](https://www.github.com/EasyAbp/UniappManagement)
 
 实现uni-app的应用版本管理、整包更新、热更新、差量热更新等功能的Abp应用模块
@@ -37,11 +38,11 @@ We have launched an online demo for this module: [https://uniapp.samples.easyabp
 
 1. Enjoy this wonderful module.
 
-![Notifications](/modules/UniappManagement/images/NewApp.png)
-![AppList](/modules/UniappManagement/images/AppList.png)
-![NewVersion](/modules/UniappManagement/images/NewVersion.png)
-![VersionList](/modules/UniappManagement/images/VersionList.png)
-![WebApis](/modules/UniappManagement/images/WebApis.png)
+![Notifications](/docs/images/NewApp.png)
+![AppList](/docs/images/AppList.png)
+![NewVersion](/docs/images/NewVersion.png)
+![VersionList](/docs/images/VersionList.png)
+![WebApis](/docs/images/WebApis.png)
 
 ## Roadmap
 
