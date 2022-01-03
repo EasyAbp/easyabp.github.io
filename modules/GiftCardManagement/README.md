@@ -3,6 +3,7 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FGiftCardManagement%2Fmaster%2FDirectory.Build.props)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.GiftCardManagement.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.GiftCardManagement.Domain.Shared)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.GiftCardManagement.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.GiftCardManagement.Domain.Shared)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/GiftCardManagement?style=social)](https://www.github.com/EasyAbp/GiftCardManagement)
 
 An abp application module where you can create gift cards and your app user can use them to exchange something.
@@ -39,13 +40,13 @@ We have launched an online demo for this module: [https://giftcard.samples.easya
 
 1. Create a gift card.
 
-1. Handle the gift card consumption distributed event. See the document: [Handling Consumption Event](/modules/GiftCardManagement/Handling-Consumption-Event.md).
+1. Handle the gift card consumption distributed event. See the document: [Handling Consumption Event](/docs/Handling-Consumption-Event.md).
 
 1. Try to consume the gift card.
 
-![GiftCards](/modules/GiftCardManagement/images/GiftCards.png)
-![BatchCreate](/modules/GiftCardManagement/images/BatchCreate.png)
-![Consumption](/modules/GiftCardManagement/images/Consumption.png)
+![GiftCards](/docs/images/GiftCards.png)
+![BatchCreate](/docs/images/BatchCreate.png)
+![Consumption](/docs/images/Consumption.png)
 
 ## Roadmap
 
