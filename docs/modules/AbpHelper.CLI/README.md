@@ -3,6 +3,7 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FAbpHelper.CLI%2Fmaster%2FDirectory.Build.props)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.AbpHelper.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.AbpHelper)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.AbpHelper.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.AbpHelper)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/AbpHelper.CLI?style=social)](https://www.github.com/EasyAbp/AbpHelper.CLI)
 
 AbpHelper is a tool that help you with developing Abp vNext applications.
@@ -49,7 +50,7 @@ AbpHelper is a tool that help you with developing Abp vNext applications.
 1. Startup your application
 1. Login with the default admin account, and see the magic happens!
 
-    ![running_demo](/modules/AbpHelper.CLI/images/2020-02-10-14-09-22.png)
+    ![running_demo](/docs/images/2020-02-10-14-09-22.png)
 
     > If you don't see the TODO menu, check your permissions and make sure the TODO related permissions are granted
 
@@ -68,41 +69,41 @@ AbpHelper is a tool that help you with developing Abp vNext applications.
 
     Generate a set of CRUD related files according to the specified entity
 
-    [Demo GIF](/modules/AbpHelper.CLI/images/crud.gif)
+    [Demo GIF](/docs/images/crud.gif)
 
   * service
 
     Generate service interface and class files according to the specified name
 
-    [Demo GIF](/modules/AbpHelper.CLI/images/service.gif)
+    [Demo GIF](/docs/images/service.gif)
 
   * methods
 
     Generate service method(s) according to the specified name(s)
 
-    [Demo GIF](/modules/AbpHelper.CLI/images/methods.gif)
+    [Demo GIF](/docs/images/methods.gif)
 
   * localization
 
     Generate localization item(s) according to the specified name(s)
 
-    [Demo GIF](/modules/AbpHelper.CLI/images/localization.gif)
+    [Demo GIF](/docs/images/localization.gif)
 
   * controller
 
     Generate controller class and methods according to the specified service
 
-    [Demo GIF](/modules/AbpHelper.CLI/images/controller.gif)
+    [Demo GIF](/docs/images/controller.gif)
 
 * ef
 
   A shortcut to run 'dotnet ef' commands. See 'abphelper ef --help' for details
 
-  [Demo GIF](/modules/AbpHelper.CLI/images/ef.gif)
+  [Demo GIF](/docs/images/ef.gif)
 
 * module
 
   Help quickly add/update/remove ABP modules. See 'abphelper module --help' for details
 
-  [Demo GIF](/modules/AbpHelper.CLI/images/module.gif)
+  [Demo GIF](/docs/images/module.gif)
 
