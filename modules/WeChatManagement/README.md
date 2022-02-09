@@ -14,20 +14,20 @@ We have launched an online demo for this module: [https://wechat.samples.easyabp
 
 ## Installation
 
-* [安装小程序模块](/modules/WeChatManagement/MiniPrograms/README.md#installation)
+* [安装小程序模块](/docs/MiniPrograms/README.md#installation)
 * 安装公众号模块
 * 安装企业微信模块
 * 安装第三方平台模块
 
 ## Usage
 
-* [使用小程序模块](/modules/WeChatManagement/MiniPrograms/README.md#usage)
+* [使用小程序模块](/docs/MiniPrograms/README.md#usage)
 * 使用公众号模块
 * 使用企业微信模块
 * 使用第三方平台模块
 
-![MiniProgram](/modules/WeChatManagement/MiniPrograms/images/MiniProgram.png)
-![UserInfo](/modules/WeChatManagement/MiniPrograms/images/UserInfo.png)
+![MiniProgram](/docs/MiniPrograms/images/MiniProgram.png)
+![UserInfo](/docs/MiniPrograms/images/UserInfo.png)
 
 ## Roadmap
 
