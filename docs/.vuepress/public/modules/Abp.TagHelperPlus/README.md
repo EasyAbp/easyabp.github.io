@@ -31,7 +31,7 @@ Improve the abp-select to support paged items and search.
       * Use on page: [demo](https://github.com/EasyAbp/Abp.TagHelperPlus/blob/master/host/EasyAbp.Abp.TagHelperPlus.Web.Unified/Pages/Books/Book2/Index.cshtml#L33).
    * Use abp-select: [demo](https://github.com/EasyAbp/Abp.TagHelperPlus/blob/master/host/EasyAbp.Abp.TagHelperPlus.Web.Unified/Pages/Books/Book3/Index.cshtml#L33).
 
-![EditBook](/docs/images/EasySelector/EditBook.png)
+![EditBook](/modules/Abp.TagHelperPlus/images/EasySelector/EditBook.png)
 
 ## Road map
 
