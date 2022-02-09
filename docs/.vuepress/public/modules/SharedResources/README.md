@@ -44,12 +44,12 @@ We have launched an online demo for this module: [https://sharedres.samples.easy
 
 1. Set authorized users of the resource so they can access it.
 
-![Categories](/docs/images/Categories.png)
-![CreateCategory](/docs/images/CreateCategory.png)
-![Resources](/docs/images/Resources.png)
-![CreateResource](/docs/images/CreateResource.png)
-![ResourceItems](/docs/images/ResourceItems.png)
-![CreateResourceItem](/docs/images/CreateResourceItem.png)
+![Categories](/modules/SharedResources/images/Categories.png)
+![CreateCategory](/modules/SharedResources/images/CreateCategory.png)
+![Resources](/modules/SharedResources/images/Resources.png)
+![CreateResource](/modules/SharedResources/images/CreateResource.png)
+![ResourceItems](/modules/SharedResources/images/ResourceItems.png)
+![CreateResourceItem](/modules/SharedResources/images/CreateResourceItem.png)
 
 ## Application Scenario
 
