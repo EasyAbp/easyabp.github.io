@@ -37,9 +37,9 @@ We have launched an online demo for this module: [https://forum.samples.easyabp.
 
 2. Go to the community home page and try to create a new post.
 
-![CommunityList](/docs/images/CommunityList.jpeg)
-![PostList](/docs/images/PostList.jpeg)
-![PostDetail](/docs/images/PostDetail.jpeg)
+![CommunityList](/modules/Forum/images/CommunityList.jpeg)
+![PostList](/modules/Forum/images/PostList.jpeg)
+![PostDetail](/modules/Forum/images/PostDetail.jpeg)
 
 ## Road map
 
