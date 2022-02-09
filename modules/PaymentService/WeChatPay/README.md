@@ -14,7 +14,7 @@ We have launched an online demo for this module: [https://pay.samples.easyabp.io
 
 ## Installation
 
-> Should also install the [PaymentService module](/docs/README.md#getting-started) since this module depends on it.
+> Should also install the [PaymentService module](/modules/PaymentService/README.md#getting-started) since this module depends on it.
 
 1. Install the following NuGet packages. ([see how](https://github.com/EasyAbp/EasyAbpGuide/blob/master/How-To.md#add-nuget-packages))
 
