@@ -8,7 +8,7 @@
 
 An ABP module helps you quickly implement dynamic queries.
 
-![demo.gif](/docs/images/demo.gif)
+![demo.gif](/modules/Abp.DynamicQuery/images/demo.gif)
 
 ## Installation
 
