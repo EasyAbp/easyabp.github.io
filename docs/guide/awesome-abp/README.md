@@ -114,7 +114,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 
 
 ## Contributions
-Contributions from the community are always welcome! Please take a look at the [contribution guidelines](/docs/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/EasyAbp/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
+Contributions from the community are always welcome! Please take a look at the [contribution guidelines](/guide/awesome-abp/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/EasyAbp/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Questions
 Feel free to open a new issue if you have any questions regarding abp.io.
