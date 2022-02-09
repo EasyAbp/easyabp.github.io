@@ -42,9 +42,9 @@ We have launched an online demo for this module: [https://cache.samples.easyabp.
 
 1. Enjoy this wonderful module.
 
-![CacheItems](/docs/images/CacheItems.png)
-![EditCacheItem](/docs/images/EditCacheItem.png)
-![CacheItemData](/docs/images/CacheItemData.png)
+![CacheItems](/modules/CacheManagement/images/CacheItems.png)
+![EditCacheItem](/modules/CacheManagement/images/EditCacheItem.png)
+![CacheItemData](/modules/CacheManagement/images/CacheItemData.png)
 
 ## Roadmap
 
