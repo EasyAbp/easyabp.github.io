@@ -74,7 +74,7 @@ Publish the notification.
 await distributedEventBus.PublishAsync(new CreateEmailNotificationEto(userIds, subject, body));
 ```
 
-![Notifications](/modules/NotificationService/images/Notifications.png)
+![Notifications](/docs/images/Notifications.png)
 
 ## Q&A
 
