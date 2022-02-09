@@ -18,9 +18,9 @@
 
 | 功能             | 支持情况                                                     | 文档                                   |
 | ---------------- | ------------------------------------------------------------ | -------------------------------------- |
-| 微信支付模块     | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/docs/WeChatPay.md)         |
-| 微信公众号模块   | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/docs/WeChatOfficial.md)    |
-| 微信小程序模块   | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/docs/WeChatMiniProgram.md) |
+| 微信支付模块     | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/modules/Abp.WeChat/WeChatPay.md)         |
+| 微信公众号模块   | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/modules/Abp.WeChat/WeChatOfficial.md)    |
+| 微信小程序模块   | ![Support](https://img.shields.io/badge/-部分支持-orange.svg) | [访问文档](/modules/Abp.WeChat/WeChatMiniProgram.md) |
 | 企业微信模块     | ![Support](https://img.shields.io/badge/-不支持-red.svg)     |                                        |
 | 微信小商店模块   | ![Support](https://img.shields.io/badge/-不支持-red.svg)     |                                        |
 | 微信只能对话模块 | ![Support](https://img.shields.io/badge/-不支持-red.svg)     |                                        |
