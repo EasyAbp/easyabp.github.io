@@ -20,7 +20,7 @@ We have launched an online demo for this module: [https://lyear.samples.easyabp.
 
 1. Add `DependsOn(typeof(AbpAspNetCoreMvcUiLYearThemeModule))` attribute to configure the module dependencies. ([see how](https://github.com/EasyAbp/EasyAbpGuide/blob/master/docs/How-To.md#add-module-dependencies))
 
-![Files](/docs/images/Files.png)
+![Files](/modules/Abp.AspNetCore.Mvc.UI.Theme.LYear/images/Files.png)
 
 ## Reference
 
