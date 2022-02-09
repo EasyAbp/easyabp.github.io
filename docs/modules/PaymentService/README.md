@@ -47,10 +47,10 @@ We have launched an online demo for this module: [https://pay.samples.easyabp.io
 
 2. Choose the payment service providers you want:
     * Free
-    * [Prepayment](/docs/Prepayment/README.md)
-    * [WeChatPay](/docs/WeChatPay/README.md)
+    * [Prepayment](/modules/PaymentService/Prepayment/README.md)
+    * [WeChatPay](/modules/PaymentService/WeChatPay/README.md)
 
-![Payment](/docs/images/Payment.png)
+![Payment](/modules/PaymentService/images/Payment.png)
 
 ## Roadmap
 
