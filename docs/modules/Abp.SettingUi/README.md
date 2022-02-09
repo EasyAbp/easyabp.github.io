@@ -1,4 +1,4 @@
-[中文](/docs/README_zh-Hans.md)
+[中文](/modules/Abp.SettingUi/README_zh-Hans.md)
 
 # Abp.SettingUi
 
@@ -10,7 +10,7 @@
 
 An [ABP](http://abp.io) module used to manage ABP settings
 
-![demo](/docs/images/demo.png)
+![demo](/modules/Abp.SettingUi/images/demo.png)
 
 > If you are using ABP version <2.1.1, please see [Abp.SettingManagement.Mvc.UI](https://github.com/wakuflair/Abp.SettingManagement.Mvc.UI)
 
@@ -68,7 +68,7 @@ In order to let SettingUi module use localization resources from this applicatio
 
 1. Grant permission ("Setting UI" - "Show Setting Page")
 
-    ![permission](/docs/images/permission.png)
+    ![permission](/modules/Abp.SettingUi/images/permission.png)
 
 1. Refresh the browser then you can use "Administration" - "Settings" menu to see all ABP built-in settings
 
@@ -139,13 +139,13 @@ Beside ABP built-in settings, you can also use this module to manage your own se
 
 1. Relaunch the application, we can see the setting displayed, and the localization also works
 
-    ![custom-setting](/docs/images/custom-setting.png)
+    ![custom-setting](/modules/Abp.SettingUi/images/custom-setting.png)
 
 ## Grouping
 
 You may notice that our custom setting is displayed in "Others" tab, and "Others" card, these are the default group display names called "Group1" and "Group2" respectively:
 
-![group](/docs/images/group.png)
+![group](/modules/Abp.SettingUi/images/group.png)
 
 So how can we custom the group of the setting? There are two ways:
 
@@ -203,7 +203,7 @@ So how can we custom the group of the setting? There are two ways:
 
     Relaunch the application and see if the group names are correctly set
 
-    ![group-name](/docs/images/group-name.png)
+    ![group-name](/modules/Abp.SettingUi/images/group-name.png)
 
 1. Use setting property file
 
@@ -241,7 +241,7 @@ So how can we custom the group of the setting? There are two ways:
 
     * Relaunch the application to see the new grouped setting
 
-        ![group-by-setting-property-file](/docs/images/group-by-setting-property-file.png)
+        ![group-by-setting-property-file](/modules/Abp.SettingUi/images/group-by-setting-property-file.png)
 
 ## Setting types
 
@@ -263,7 +263,7 @@ By default a setting value is string type, which will be rendered as a text inpu
 
 No need to relaunch the application, just press F5 to refresh the browser, you should be able to see the effect immediately:
 
-![type-number](/docs/images/type-number.png)
+![type-number](/modules/Abp.SettingUi/images/type-number.png)
 
 Now the input type changed to "number", and the frontend validations also work.
 
@@ -289,7 +289,7 @@ For now SettingUi supports following setting types:
 
     The render result:
 
-    ![selection](/docs/images/selet.png)
+    ![selection](/modules/Abp.SettingUi/images/selet.png)
 
 This is the end of the tutorial. Through this tutorial, you should be able to easily manage your settings using SettingUi. The source of the tutorial can be found in the [sample folder](https://github.com/EasyAbp/Abp.SettingUi/tree/master/sample).
 
@@ -363,6 +363,6 @@ Through the above three-level permission definition way, we can arbitrarily cont
 
 The following figure is a screenshot of Setting Ui permissions, and the displayed result:
 
-![setting_permission](/docs/images/setting_permission.png)
+![setting_permission](/modules/Abp.SettingUi/images/setting_permission.png)
 
 > For ABP's permission system, please see [the document](https://docs.abp.io/en/abp/latest/Authorization)
