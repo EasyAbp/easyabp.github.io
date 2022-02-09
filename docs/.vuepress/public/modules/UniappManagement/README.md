@@ -38,11 +38,11 @@ We have launched an online demo for this module: [https://uniapp.samples.easyabp
 
 1. Enjoy this wonderful module.
 
-![Notifications](/docs/images/NewApp.png)
-![AppList](/docs/images/AppList.png)
-![NewVersion](/docs/images/NewVersion.png)
-![VersionList](/docs/images/VersionList.png)
-![WebApis](/docs/images/WebApis.png)
+![Notifications](/modules/UniappManagement/images/NewApp.png)
+![AppList](/modules/UniappManagement/images/AppList.png)
+![NewVersion](/modules/UniappManagement/images/NewVersion.png)
+![VersionList](/modules/UniappManagement/images/VersionList.png)
+![WebApis](/modules/UniappManagement/images/WebApis.png)
 
 ## Roadmap
 
