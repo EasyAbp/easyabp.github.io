@@ -212,4 +212,4 @@ Quickly build an e-commerce application based on EasyAbp.EShop.
 
 ## How To
 
-See ["How To" Guides](/docs/How-To.md).
+See ["How To" Guides](/guide/EasyAbpGuide/How-To.md).
