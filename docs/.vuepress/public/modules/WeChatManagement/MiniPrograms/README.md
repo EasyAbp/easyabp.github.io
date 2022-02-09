@@ -57,10 +57,10 @@ We have launched an online demo for this module: [https://wechat.samples.easyabp
 
 4. 完成上一步后，Razor 登录页将自动完成登录并跳转。
 
-![MiniProgram](/docs/MiniPrograms/images/MiniProgram.png)
-![MiniProgramUser](/docs/MiniPrograms/images/MiniProgramUser.png)
-![UserInfo](/docs/MiniPrograms/images/UserInfo.png)
-![PcLogin](/docs/MiniPrograms/images/PcLogin.png)
+![MiniProgram](/modules/WeChatManagement/MiniPrograms/images/MiniProgram.png)
+![MiniProgramUser](/modules/WeChatManagement/MiniPrograms/images/MiniProgramUser.png)
+![UserInfo](/modules/WeChatManagement/MiniPrograms/images/UserInfo.png)
+![PcLogin](/modules/WeChatManagement/MiniPrograms/images/PcLogin.png)
 
 ## Roadmap
 
