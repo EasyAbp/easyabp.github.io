@@ -3,6 +3,7 @@
 [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FAbp.EntityUi%2Fmaster%2FDirectory.Build.props)](https://abp.io)
 [![NuGet](https://img.shields.io/nuget/v/EasyAbp.Abp.EntityUi.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.Abp.EntityUi.Domain.Shared)
 [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.Abp.EntityUi.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.Abp.EntityUi.Domain.Shared)
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
 [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/Abp.EntityUi?style=social)](https://www.github.com/EasyAbp/Abp.EntityUi)
 
 An abp module that dynamically generates management UI for entities in runtime.
@@ -56,12 +57,12 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 3. Run the app and log in as the admin user, you can see the "Entity UI" menu item, try to open it and change some entity configuration.
 
-   ![EntityList](/docs/images/EntityList.png)
+   ![EntityList](/modules/Abp.EntityUi/images/EntityList.png)
 
 4. Use the management pages for the entities you just configured:
 
-   ![BookList](/docs/images/BookList.png)
-   ![EditBook](/docs/images/EditBook.png)
+   ![BookList](/modules/Abp.EntityUi/images/BookList.png)
+   ![EditBook](/modules/Abp.EntityUi/images/EditBook.png)
 
 ## Q&A
 
@@ -95,7 +96,7 @@ We have launched an online demo for this module: [https://entityui.samples.easya
 
 ### Entity UI for dynamic entities?
 
-See the Entity UI dynamic entity provider [document](/docs/dynamic-entity/README.md).
+See the Entity UI dynamic entity provider [document](/modules/Abp.EntityUi/dynamic-entity/README.md).
 
 ## Road map
 
