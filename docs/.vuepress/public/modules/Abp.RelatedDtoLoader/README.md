@@ -138,7 +138,7 @@ An Abp module that help you automatically load related DTO (like ProductDto in O
 	}
     ```
 
-See more: [Custom DTO source examples](/docs/CustomDtoSource.md).
+See more: [Custom DTO source examples](/modules/Abp.RelatedDtoLoader/CustomDtoSource.md).
 
 ## Roadmap
 
