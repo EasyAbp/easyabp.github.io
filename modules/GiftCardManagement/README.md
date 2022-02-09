@@ -40,13 +40,13 @@ We have launched an online demo for this module: [https://giftcard.samples.easya
 
 1. Create a gift card.
 
-1. Handle the gift card consumption distributed event. See the document: [Handling Consumption Event](/docs/Handling-Consumption-Event.md).
+1. Handle the gift card consumption distributed event. See the document: [Handling Consumption Event](/modules/GiftCardManagement/Handling-Consumption-Event.md).
 
 1. Try to consume the gift card.
 
-![GiftCards](/docs/images/GiftCards.png)
-![BatchCreate](/docs/images/BatchCreate.png)
-![Consumption](/docs/images/Consumption.png)
+![GiftCards](/modules/GiftCardManagement/images/GiftCards.png)
+![BatchCreate](/modules/GiftCardManagement/images/BatchCreate.png)
+![Consumption](/modules/GiftCardManagement/images/Consumption.png)
 
 ## Roadmap
 
