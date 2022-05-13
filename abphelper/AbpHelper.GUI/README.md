@@ -12,13 +12,13 @@ Providing code generation and more features to help you develop applications and
 
 2. Run the executable file.
 
-![preview 1](/docs/images/preview1.png)
-![preview 2](/docs/images/preview2.png)
-![preview 3](/docs/images/preview3.png)
+![preview 1](/abphelper/AbpHelper.GUI/images/preview1.png)
+![preview 2](/abphelper/AbpHelper.GUI/images/preview2.png)
+![preview 3](/abphelper/AbpHelper.GUI/images/preview3.png)
 
 ## Usage
 
-* [Generate CRUD Code](/docs/AbpHelper-CLI/Generate-CRUD-Code/Usage.md)
+* [Generate CRUD Code](/abphelper/AbpHelper.GUI/AbpHelper-CLI/Generate-CRUD-Code/Usage.md)
 
 ## Roadmap
 
