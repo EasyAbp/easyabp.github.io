@@ -15,6 +15,7 @@ Providing code generation and more features to help you develop applications and
 ![preview 1](/abphelper/AbpHelper.GUI/images/preview1.png)
 ![preview 2](/abphelper/AbpHelper.GUI/images/preview2.png)
 ![preview 3](/abphelper/AbpHelper.GUI/images/preview3.png)
+![preview 4](/abphelper/AbpHelper.GUI/images/preview4.png)
 
 ## Usage
 
