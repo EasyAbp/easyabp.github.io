@@ -50,7 +50,7 @@ AbpHelper is a tool that help you with developing Abp vNext applications.
 1. Startup your application
 1. Login with the default admin account, and see the magic happens!
 
-    ![running_demo](/docs/images/2020-02-10-14-09-22.png)
+    ![running_demo](/modules/AbpHelper.CLI/images/2020-02-10-14-09-22.png)
 
     > If you don't see the TODO menu, check your permissions and make sure the TODO related permissions are granted
 
@@ -69,41 +69,41 @@ AbpHelper is a tool that help you with developing Abp vNext applications.
 
     Generate a set of CRUD related files according to the specified entity
 
-    [Demo GIF](/docs/images/crud.gif)
+    [Demo GIF](/modules/AbpHelper.CLI/images/crud.gif)
 
   * service
 
     Generate service interface and class files according to the specified name
 
-    [Demo GIF](/docs/images/service.gif)
+    [Demo GIF](/modules/AbpHelper.CLI/images/service.gif)
 
   * methods
 
     Generate service method(s) according to the specified name(s)
 
-    [Demo GIF](/docs/images/methods.gif)
+    [Demo GIF](/modules/AbpHelper.CLI/images/methods.gif)
 
   * localization
 
     Generate localization item(s) according to the specified name(s)
 
-    [Demo GIF](/docs/images/localization.gif)
+    [Demo GIF](/modules/AbpHelper.CLI/images/localization.gif)
 
   * controller
 
     Generate controller class and methods according to the specified service
 
-    [Demo GIF](/docs/images/controller.gif)
+    [Demo GIF](/modules/AbpHelper.CLI/images/controller.gif)
 
 * ef
 
   A shortcut to run 'dotnet ef' commands. See 'abphelper ef --help' for details
 
-  [Demo GIF](/docs/images/ef.gif)
+  [Demo GIF](/modules/AbpHelper.CLI/images/ef.gif)
 
 * module
 
   Help quickly add/update/remove ABP modules. See 'abphelper module --help' for details
 
-  [Demo GIF](/docs/images/module.gif)
+  [Demo GIF](/modules/AbpHelper.CLI/images/module.gif)
 
