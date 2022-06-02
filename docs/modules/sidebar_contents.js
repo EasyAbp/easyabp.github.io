@@ -27,6 +27,14 @@ module.exports = [
 				path: "/modules/Abp.SettingUi/"
 			},
 			{
+				title: "Abp.EventBus.Boxes.Dtm",
+				path: "/modules/Abp.EventBus.Boxes.Dtm/"
+			},
+			{
+				title: "Abp.EventBus.CAP",
+				path: "/modules/Abp.EventBus.CAP/"
+			},
+			{
 				title: "Abp.EntityUi",
 				path: "/modules/Abp.EntityUi/"
 			},
