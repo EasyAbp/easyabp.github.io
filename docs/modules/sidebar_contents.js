@@ -35,26 +35,6 @@ module.exports = [
 				path: "/modules/Abp.EventBus.CAP/"
 			},
 			{
-				title: "Abp.EntityUi",
-				path: "/modules/Abp.EntityUi/"
-			},
-			{
-				title: "Abp.DynamicEntity",
-				path: "/modules/Abp.DynamicEntity/"
-			},
-			{
-				title: "Abp.DynamicQuery",
-				path: "/modules/Abp.DynamicQuery/"
-			},
-			{
-				title: "Abp.DynamicMenu",
-				path: "/modules/Abp.DynamicMenu/"
-			},
-			{
-				title: "Abp.DynamicPermission",
-				path: "/modules/Abp.DynamicPermission/"
-			},
-			{
 				title: "Abp.TagHelperPlus",
 				path: "/modules/Abp.TagHelperPlus/"
 			},
@@ -146,6 +126,35 @@ module.exports = [
 			{
 				title: "Abp.PhoneNumberLogin",
 				path: "/modules/Abp.PhoneNumberLogin/"
+			}
+		]
+	},
+	{
+		title: "Dynamic",
+		children: [
+			{
+				title: "Abp.EntityUi",
+				path: "/modules/Abp.EntityUi/"
+			},
+			{
+				title: "Abp.DynamicEntity",
+				path: "/modules/Abp.DynamicEntity/"
+			},
+			{
+				title: "Abp.DynamicQuery",
+				path: "/modules/Abp.DynamicQuery/"
+			},
+			{
+				title: "Abp.DynamicMenu",
+				path: "/modules/Abp.DynamicMenu/"
+			},
+			{
+				title: "Abp.DynamicPermission",
+				path: "/modules/Abp.DynamicPermission/"
+			},
+			{
+				title: "Elsa",
+				path: "/modules/Elsa/"
 			}
 		]
 	},
