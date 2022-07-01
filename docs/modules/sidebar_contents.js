@@ -64,6 +64,10 @@ module.exports = [
 				path: "/modules/PaymentService/"
 			},
 			{
+				title: "BookingService",
+				path: "/modules/BookingService/"
+			},
+			{
 				title: "GiftCardManagement",
 				path: "/modules/GiftCardManagement/"
 			},
