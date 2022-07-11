@@ -12,6 +12,10 @@ An abp application module group that provides basic e-shop service.
 
 We have launched an online demo for this module: [https://eshop.samples.easyabp.io](https://eshop.samples.easyabp.io)
 
+![image](https://user-images.githubusercontent.com/30018771/173756329-fe16a753-dddf-4b97-a5e5-a2f4c9d9983f.png)
+
+> You can also clone this repo and run the [demo project](https://github.com/EasyAbp/EShop/tree/dev/samples/EShopSample/aspnet-core/src/EShopSample.Web) locally.
+
 ## Installation
 
 1. Follow [the document](https://github.com/EasyAbp/PaymentService#installation) to install the dependent PaymentService module.
@@ -48,7 +52,7 @@ We have launched an online demo for this module: [https://eshop.samples.easyabp.
 
 * Define a Product Group (optional)
     * Product group is used to classify different types of products, so we can customize different behavior for them, for example, products of the "GiftCard" product group could automatically send the card number and password to the customer's mailbox.
-    * EShop provides a [default product group](https://github.com/EasyAbp/EShop/blob/master/modules/EasyAbp.EShop.Products/src/EasyAbp.EShop.Products.Domain/EasyAbp/EShop/Products/EShopProductsDomainModule.cs#L29-L36).
+    * EShop provides a [default product group](https://github.com/EasyAbp/EShop/blob/master/modules/EasyAbp.EShop.Products/src/EasyAbp.EShop.Products.Domain/EasyAbp/EShop/Products/EShopProductsDomainModule.cs#L33-L37).
     * Refer to the configuration of the default product group and define a new product group.
 
 * Create a Product
@@ -102,6 +106,9 @@ We can customize some features to use EShop in complex application scenarios.
 * Plugin modules
   * Baskets
   * Coupons
+  * Inventories
+    * [DaprActors](https://github.com/EasyAbp/EShop/tree/dev/plugins/Inventories/DaprActors)
+    * [OrleansGrains](https://github.com/EasyAbp/EShop/tree/dev/plugins/Inventories/OrleansGrains)
 
 ## Roadmap
 
