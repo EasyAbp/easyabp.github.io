@@ -1,5 +1,5 @@
 # EasyAbp
-[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
+[![Discord online](https://badgen.net/discord/online-members/xyg8TrRa27?label=Discord)](https://discord.gg/xyg8TrRa27)
 
 An open-source organization that enhances your ABP project development efficiency.
 
@@ -44,6 +44,10 @@ An integrated user notification service Abp module, supporting email, SMS, PM, a
 #### [BookingService](https://github.com/EasyAbp/BookingService) [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FBookingService%2Fmain%2FDirectory.Build.props)](https://abp.io) [![NuGet](https://img.shields.io/nuget/v/EasyAbp.BookingService.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.BookingService.Domain.Shared) [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.BookingService.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.BookingService.Domain.Shared) [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/BookingService?style=social)](https://www.github.com/EasyAbp/BookingService)
 
 An ABP application module that allows users to book time for people or assets.
+
+#### [DynamicForm](https://github.com/EasyAbp/DynamicForm) [![ABP version](https://img.shields.io/badge/dynamic/xml?style=flat-square&color=yellow&label=abp&query=%2F%2FProject%2FPropertyGroup%2FAbpVersion&url=https%3A%2F%2Fraw.githubusercontent.com%2FEasyAbp%2FDynamicForm%2Fmain%2FDirectory.Build.props)](https://abp.io) [![NuGet](https://img.shields.io/nuget/v/EasyAbp.DynamicForm.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.DynamicForm.Domain.Shared) [![NuGet Download](https://img.shields.io/nuget/dt/EasyAbp.DynamicForm.Domain.Shared.svg?style=flat-square)](https://www.nuget.org/packages/EasyAbp.DynamicForm.Domain.Shared) [![GitHub stars](https://img.shields.io/github/stars/EasyAbp/DynamicForm?style=social)](https://www.github.com/EasyAbp/DynamicForm)
+
+An ABP module helps users to define and use dynamic forms at runtime.
 
 #### [WarehouseManagement](https://github.com/EasyAbp/WarehouseManagement) ![Backlog](https://img.shields.io/badge/-Backlog-lightgrey?style=flat-square)
 

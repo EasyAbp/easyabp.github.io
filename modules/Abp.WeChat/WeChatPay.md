@@ -57,8 +57,8 @@ public class XXXHttpApiModule : AbpModule
             // 微信支付的 API 密钥信息，会在后续进行签名时被使用。
             op.ApiKey = "000000000000000000000000000";
             // 支付回调地址，用于接收支付结果通知。
-            // 如果使用了 HttpApi 模块的 Controller，则默认是 域名 + /WeChatPay/Notify 路由。
-            op.NotifyUrl = "http://xxx.xxxx.com/WeChatPay/Notify";
+            // 如果使用了 HttpApi 模块的 Controller，则默认是 域名 + /wechat-pay/notify 路由。
+            op.NotifyUrl = "http://xxx.xxxx.com/wechat-pay/notify";
         });
     }
 }
@@ -78,7 +78,7 @@ public class XXXHttpApiModule : AbpModule
 
 ### 3.1 支付回调接口
 
-支付通知接口的默认路由是 `/WeChatPay/Notify`，当开发人员调用了统一下单接口之后，微信会将支付结果通过异步回调的方式请求 **支付通知接口**，该参数可以通过注入 `AbpWeChatPayOptions.NotifyUrl` 进行读取或设置。
+支付通知接口的默认路由是 `/wechat-pay/notify`，当开发人员调用了统一下单接口之后，微信会将支付结果通过异步回调的方式请求 **支付通知接口**，该参数可以通过注入 `AbpWeChatPayOptions.NotifyUrl` 进行读取或设置。
 
 > 开发人员也可以自己编写回调接口，只需要在配置的时候，参数传递自己的回调接口 URL 即可。
 
