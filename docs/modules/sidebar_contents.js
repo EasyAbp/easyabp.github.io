@@ -157,6 +157,10 @@ module.exports = [
 				path: "/modules/Abp.DynamicPermission/"
 			},
 			{
+				title: "DynamicForm",
+				path: "/modules/DynamicForm/"
+			},
+			{
 				title: "Elsa",
 				path: "/modules/Elsa/"
 			}
