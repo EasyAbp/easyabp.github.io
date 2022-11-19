@@ -180,15 +180,6 @@ module.exports = [
 		]
 	},
 	{
-		title: "Theme",
-		children: [
-			{
-				title: "LYear",
-				path: "/modules/Abp.AspNetCore.Mvc.UI.Theme.LYear/"
-			}
-		]
-	},
-	{
 		title: "Other",
 		children: [
 			{
