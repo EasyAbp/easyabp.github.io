@@ -128,6 +128,10 @@ module.exports = [
 		title: "Account",
 		children: [
 			{
+				title: "Abp.LoginUi",
+				path: "/modules/Abp.LoginUi/"
+			},
+			{
 				title: "Abp.PhoneNumberLogin",
 				path: "/modules/Abp.PhoneNumberLogin/"
 			}
