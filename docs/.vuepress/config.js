@@ -1,7 +1,7 @@
 module.exports = {
   theme: "antdocs",
   title: "EasyAbp",
-  description: "An open-source organization that provides modules and tools to improve the efficiency of your ABP project development.",
+  description: "We help to improve your development experience with the ABP framework.",
   base: "/",
   head: [
     ["link", { rel: "icon", href: "/assets/logo.png" }]
