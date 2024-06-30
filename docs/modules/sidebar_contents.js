@@ -74,6 +74,10 @@ module.exports = [
 			{
 				title: "ReviewManagement",
 				path: "/modules/ReviewManagement/"
+			},
+			{
+				title: "ProcessManagement",
+				path: "/modules/ProcessManagement/"
 			}
 		]
 	},
