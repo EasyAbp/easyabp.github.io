@@ -11,16 +11,8 @@ module.exports = [
 				path: "/modules/Abp.GraphQL/"
 			},
 			{
-				title: "Abp.AspNetCoreRateLimit",
-				path: "/modules/Abp.AspNetCoreRateLimit/"
-			},
-			{
 				title: "Abp.DataDictionary",
 				path: "/modules/Abp.DataDictionary/"
-			},
-			{
-				title: "Abp.RelatedDtoLoader",
-				path: "/modules/Abp.RelatedDtoLoader/"
 			},
 			{
 				title: "Abp.SettingUi",
@@ -70,10 +62,6 @@ module.exports = [
 			{
 				title: "GiftCardManagement",
 				path: "/modules/GiftCardManagement/"
-			},
-			{
-				title: "ReviewManagement",
-				path: "/modules/ReviewManagement/"
 			},
 			{
 				title: "ProcessManagement",
@@ -197,10 +185,6 @@ module.exports = [
 			{
 				title: "Abp.TencentCloud",
 				path: "/modules/Abp.TencentCloud/"
-			},
-			{
-				title: "UniappManagement",
-				path: "/modules/UniappManagement/"
 			}
 		]
 	}
